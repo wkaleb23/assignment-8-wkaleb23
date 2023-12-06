@@ -9,19 +9,19 @@ Here are some interesting images that I generated. Here you can see 2 random maz
 
 1. 12x12 with Binary
 
-![Maze 1](./images/binary_tree_maze.png)
+![Maze 1](images/binary_tree_maze.png)
 
 2. 12x12 with Sideeinder
 
-![Maze 2](./images/sidewinder_maze.png)
+![Maze 2](images/sidewinder_maze.png)
 
 3. Solved 15x15 Binary - Djikstra
 
-![Solved Maze 1](./images/solved_maze.png)
+![Solved Maze 1](images/solved_maze.png)
 
 4. Solved 15x15 Sidewinder - Djikstra
 
-![Solved Maze 2](./images/solved_maze2.png)
+![Solved Maze 2](images/solved_maze2.png)
 
 ## Code
 
