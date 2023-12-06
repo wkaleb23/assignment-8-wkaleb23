@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "TestCell",
+      "setup": "sudo -H pip3 install pytest Pillow pypng",
+      "run": "pytest -k TestCell -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "TestGrid",
+      "setup": "sudo -H pip3 install pytest Pillow pypng",
+      "run": "pytest -k TestGrid -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "DjikstraSolver",
+      "setup": "sudo -H pip3 install pytest Pillow pypng",
+      "run": " pytest -k TestDjikstraSolver -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 35
+    },
+    {
+      "name": "Sidewinder",
+      "setup": "sudo -H pip3 install pytest Pillow pypng",
+      "run": "pytest -k TestSidewinder -raP",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
